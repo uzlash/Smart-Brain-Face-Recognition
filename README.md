@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Smart brain is an app that detects a person's face from an image provided (using a URL) using the Clarifai API.
 
 ##Image
-
+![screenshot-localhost_3000-2019 10 20-20_57_19](https://user-images.githubusercontent.com/39749863/67242291-22803f00-f44d-11e9-8cc6-2236d23e43b2.png)
 
 ## Available Scripts
 
