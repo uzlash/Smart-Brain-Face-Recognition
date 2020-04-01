@@ -1,14 +1,14 @@
 // The rank component which fetches your name and tell you your rank
 import React from 'react'
 
-const Rank = ({name, enteries}) => {
+const Rank = ({name, entries}) => {
     return(
         <div>
             <div className='f3 white'>
                 {`${name} , your current entry count is...`}
             </div>
             <div className='f1 white'>
-                {enteries}
+                {entries}
             </div>
         </div>
         
